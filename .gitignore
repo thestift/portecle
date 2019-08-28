@@ -2,3 +2,5 @@
 /build
 /build.properties
 /dist
+*.iml
+/.idea
